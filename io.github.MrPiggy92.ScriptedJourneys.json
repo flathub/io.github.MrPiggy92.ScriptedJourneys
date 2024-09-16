@@ -17,7 +17,7 @@
         {
           "type": "git",
           "url": "https://github.com/MrPiggy92/ScriptedJourneys.git",
-          "commit": "d737865cc502044d506ff24ea93934b7ed4d5572"
+          "commit": "2c10bd261ae98144be75638a7ba2828d430a3e75"
         }
       ],
       "build-commands": [
